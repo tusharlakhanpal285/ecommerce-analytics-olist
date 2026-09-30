@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+src/db_config.py
+data/
+outputs/rfm_customers.csv
